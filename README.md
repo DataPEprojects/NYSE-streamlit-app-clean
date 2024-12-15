@@ -3,6 +3,8 @@
 https://nyse-app-app-clean-zjxzjxxkxfev7jnmriuypg.streamlit.app/
 ## Lien du GITHUB
 https://github.com/DataPEprojects/NYSE-streamlit-app-clean?tab=readme-ov-file
+## Lien du dataset
+https://www.kaggle.com/datasets/dgawlik/nyse
 ## Présentation du Projet
 Ce projet a pour objectif de fournir une application Streamlit permettant une analyse complète d’un jeu de données. Réalisée par un groupe de quatre étudiants, l'application offre diverses fonctionnalités allant de la gestion et la visualisation des données jusqu’à la création d'un wordcloud, en passant par une application d'investissement comparative.
 
