@@ -1,0 +1,13 @@
+numpy
+pandas
+streamlit
+plotly
+yfinance
+matplotlib
+seaborn
+unidecode
+nltk
+scikit-learn
+wordcloud
+nbformat
+nbclient
